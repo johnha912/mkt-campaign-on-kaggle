@@ -27,7 +27,7 @@ sns.heatmap(corr, mask=mask, cmap=cmap, vmax=.6, vmin=-.6, center=0,
 plt.title("Numerical features correlation matrix", fontsize=16)
 plt.show()
 
-#4. Elbow method
+#4. Elbow method - k-Mean for deciding groups of clustering
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
