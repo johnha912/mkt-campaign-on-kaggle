@@ -32,4 +32,4 @@ Some basics: CTES, Windows Functions, Aggregate Functions, and CASE-WHEN stateme
 ### Kaggle API
 Make sure you may know how to create your own token on Kaggle. See here: https://www.kaggle.com/docs/api.
 
-### Especially, I would like to say thank you to Lam Nguyen, who is my data mentor, has coached and fully guided me during the time I started learning and being familiar with these tools. ###  
+### Especially, I would like to say thank you to Lam Nguyen, who is my data mentor, has coached and fully guided me during the time I started learning and being familiar with these wonderful programming languages. ###  
