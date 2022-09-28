@@ -1,4 +1,4 @@
-#Make sure opendatasets and kaggle already installed on your Python
+#Make sure opendatasets and kaggle already installed on your Python, and do the following script partly (uploading takes longer time to render on GitHub, so I typed manually instead ;) )
 
 import opendatasets as od
 import pandas
