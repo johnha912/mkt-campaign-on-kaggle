@@ -12,8 +12,8 @@ SELECT
     
 -- categorize age group
     CASE
-        WHEN Age_Range in (25,26,27,28,29,30,31,32,33,34) THEN '25-34'
-        WHEN Age_Range in (35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54) THEN '35-54'
+        WHEN Age_Range BETWEEN 25 AND 34 THEN '25-34'
+        WHEN Age_Range BETWEEN 35 AND 54 THEN '35-54'
         ELSE '55 and above'
     END AS Age_Define,
     
